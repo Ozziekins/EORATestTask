@@ -21,3 +21,7 @@ There should be one person on a video. Height of a person’s face should be at 
 are in the same working directory
 4. run the notebook
 5. download and play the file output.mp4
+
+
+### Side note
+My apologies but my laptop got broken and is currently in Kazan for repairs. I used someone else's laptop and that is why it shows this person as an extra contributor
