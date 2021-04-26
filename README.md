@@ -18,9 +18,9 @@ There should be one person on a video. Height of a person’s face should be at 
 > blink_detection2.mp4  
 > shape_predictor_68_face_landmarks.dat
 
-are in the same working directory
-4. run the notebook
-5. download and play the file output.mp4
+are in the same working directory  
+4. run the notebook  
+5. download and play the file output.mp4  
 
 
 ### Side note
