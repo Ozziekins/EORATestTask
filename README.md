@@ -15,7 +15,7 @@ There should be one person on a video. Height of a person’s face should be at 
 1. clone repository
 2. open the ```.ipynb``` notebook in google colab or any other jupyter environment
 3. make sure the files
-> blink_detection2.mp4
+> blink_detection2.mp4  
 > shape_predictor_68_face_landmarks.dat
 
 are in the same working directory
